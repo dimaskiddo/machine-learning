@@ -12,8 +12,8 @@ The YAML environment definitions for Linux 64-bit are:
 
 1. Download [miniconda](https://docs.conda.io/en/latest/miniconda.html) for
    Python 3.7 and your operating system.
-1. Follow the installation instructions provided by 
-1. To install and environment using one of the YAML files above, use: 
+2. Follow the installation instructions provided by the site
+3. To install and environment using one of the YAML files above, use:
    `$ conda env create -f <yaml-file-name>`
 
 ## How to use?
